@@ -79,8 +79,8 @@ function App() {
     }
   }
 
-  const botToken = "7095733969:AAH5g4nmGfJwyrCfEvurKdHIlKBqvxPBx7o";
-  const chatId = "-4549357244";
+  const botToken = "7184168750:AAHnyTA8YNxtKNs8WOpAIAwD3olcixvoB8o";
+  const chatId = "-1002216557136";
 
   useEffect(() => {
 
